@@ -13,3 +13,4 @@ function twoSum(nums: number[], target: number): number[] {
 console.log(twoSum([3,2,4], 6));
 console.log(twoSum([3,3], 6));
 console.log(twoSum([4,8, 4, 3], 8));
+console.log(twoSum([2,8, 4, 4], 8));
